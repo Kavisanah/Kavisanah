@@ -91,11 +91,11 @@ interests   :
 ---
 
 ### 💊 MediRemind &nbsp;*(Mar 2026 – May 2026)*
-> Secure, role-based platform for managing medication schedules, tracking adherence, and booking medical appointments.
+> Secure medicine and doctor appointment reminder platform with automated notifications and caretaker integration.
 
-- Implemented automated reminder notifications using Spring Boot and a fully responsive React.js frontend
-- Containerised the full-stack application with Docker for consistent, reproducible deployment
-- **Stack:** React.js · Spring Boot · Spring Security · MySQL · JWT · Docker · Tailwind CSS
+- Implemented automated email reminders, a health activity dashboard, and an AI-powered medicine search using Spring Boot and React.js
+- Containerised the full-stack application and database with Docker for consistent, reproducible deployment
+- **Stack:** React.js · Spring Boot · Spring Security · MySQL · JWT · Groq API · Docker · Tailwind CSS
 
 [![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kavisanah/mediremind)
 
