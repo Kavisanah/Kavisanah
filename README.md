@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey%20there!%20I'm%20Kavisanah%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Building%20AI-Powered%20Full-Stack%20Apps&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+SWE+Undergraduate+%F0%9F%8E%93;Spring+Boot+%7C+React.js+%7C+Node.js+%7C+Docker+%F0%9F%90%B3;Passionate+about+AI+%26+Scalable+Architecture+%F0%9F%A4%96;University+of+Kelaniya+%7C+GPA%3A+3.74+%2F+4.00+%F0%9F%93%9A;Open+to+Software+Engineering+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+SE+Undergraduate+%F0%9F%8E%93;Spring+Boot+%7C+React.js+%7C+Node.js+%7C+Docker+%F0%9F%90%B3;Passionate+about+AI+%26+Scalable+Architecture+%F0%9F%A4%96;University+of+Kelaniya+%7C+GPA%3A+3.74+%2F+4.00+%F0%9F%93%9A;Open+to+Software+Engineering+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
