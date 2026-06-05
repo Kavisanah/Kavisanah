@@ -123,7 +123,7 @@ interests   :
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kavisanah&theme=tokyonight&border_radius=12&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kavisanah&theme=tokyonight&border_radius=12&hide_border=true)](https://streak-stats.demolab.com?user=Kavisanah)
 
 </div>
 
